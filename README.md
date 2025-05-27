@@ -32,7 +32,7 @@ http://127.0.0.1:5000/view-tasks
 Screenshots:
 ![Image](https://github.com/user-attachments/assets/196cb70b-2e39-4722-af4c-16dc346df5ce)
 
-📦 Tech Stack
+# 📦 Tech Stack
 
 Python (Flask)
 
@@ -44,7 +44,7 @@ Jinja2 (Templates)
 
 (Postmark integration planned in future updates)
 
-📂 Project Structure
+# 📂 Project Structure
 
 csharp
 
@@ -65,7 +65,7 @@ MailTasker/
 ├── database.db
 └── README.md
 
-🛠️ How to Run
+ # 🛠️ How to Run
 Clone the repository:
 
 bash
@@ -88,17 +88,17 @@ python logic.py
 Open your browser and navigate to:
 http://127.0.0.1:5000/view-tasks
 
-🎯 Future Improvements
+ # 🎯 Future Improvements
 
 📧 Integrate Postmark API to automatically parse and add tasks from incoming emails.
 📱 Add mobile responsiveness improvements.
 📊 Implement task analytics (number of tasks done, pending, per day/week).
 📝 Add user authentication.
 
-📃 License
+ # 📃 License
 This project is open-source and available under the MIT License.
 
-✨ Acknowledgements
+ # ✨ Acknowledgements
 Special thanks to the Postmark Challenge: Inbox Innovators community for the inspiration.
 
 
