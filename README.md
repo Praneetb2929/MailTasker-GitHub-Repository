@@ -80,6 +80,7 @@ Open your browser and navigate to:
 http://127.0.0.1:5000/view-tasks
 
 🎯 Future Improvements
+
 📧 Integrate Postmark API to automatically parse and add tasks from incoming emails.
 📱 Add mobile responsiveness improvements.
 📊 Implement task analytics (number of tasks done, pending, per day/week).
