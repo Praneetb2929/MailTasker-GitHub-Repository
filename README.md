@@ -53,11 +53,14 @@ Copy
 Edit
 
 MailTasker/
+
 │
 ├── static/
+
 │   └── (CSS, JS files)
 │
 ├── templates/
+
 │   ├── base.html
 │   └── view_tasks.html
 │
