@@ -23,7 +23,7 @@ This project was created as a submission for the [Postmark Challenge: Inbox Inno
 
 Currently runs on local development server:
 
-```bash
+
 python logic.py
 
 Then open:
