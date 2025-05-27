@@ -33,16 +33,25 @@ Screenshots:
 ![Image](https://github.com/user-attachments/assets/196cb70b-2e39-4722-af4c-16dc346df5ce)
 
 📦 Tech Stack
+
 Python (Flask)
+
 SQLite (Local database)
+
 Bootstrap 5 (UI)
+
 Jinja2 (Templates)
+
 (Postmark integration planned in future updates)
 
 📂 Project Structure
+
 csharp
+
 Copy
+
 Edit
+
 MailTasker/
 │
 ├── static/
